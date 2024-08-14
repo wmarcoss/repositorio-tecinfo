@@ -61,16 +61,13 @@ body {
     margin-bottom: 100px;
 }
 
-select {
-    width: 100px;
-    height: 40px;
-    display: flex;
-    margin-left: 320px;
-    margin-top: 25px;
-    position: absolute;
-    cursor: pointer;
+.pesquisa{
+display: flex;
+justify-content: space-between;
+max-width: 700px;
+margin: auto;
+margin-top: 0px;
 }
-
 #filtrar {
     padding: 10px;
     border-radius: 15px;

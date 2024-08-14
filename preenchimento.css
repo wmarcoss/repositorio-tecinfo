@@ -67,7 +67,7 @@ body {
 }
 
 #local, #modelo, #preventiva, #corretiva {
-    width: 480px;
+    width: 485px;
     height: 40px;
     font-weight: bold;
     border: 1px solid black;
@@ -86,10 +86,11 @@ body {
 #data, #data2, #profissional, #custo {
     display: block;
     width: 480px;
-    height: 40px;
+    height: 42px;
     font-weight: bold;
     border: 1px solid black;
     box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.548);
+    padding-left:5px ;
 }
 
 .preenchiveis2 {
@@ -111,7 +112,7 @@ body {
 
 #detalhes, #observacoes {
     display: block;
-    width: 1060px;
+    width: 1072px;
     height: 80px;
     box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.548);
 }
